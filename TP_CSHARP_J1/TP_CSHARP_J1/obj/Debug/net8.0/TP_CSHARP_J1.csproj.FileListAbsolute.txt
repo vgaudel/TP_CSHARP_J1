@@ -1,0 +1,14 @@
+D:\C#\CDA27_J2\TP_CSHARP_J1\TP_CSHARP_J1\bin\Debug\net8.0\TP_CSHARP_J1.exe
+D:\C#\CDA27_J2\TP_CSHARP_J1\TP_CSHARP_J1\bin\Debug\net8.0\TP_CSHARP_J1.deps.json
+D:\C#\CDA27_J2\TP_CSHARP_J1\TP_CSHARP_J1\bin\Debug\net8.0\TP_CSHARP_J1.runtimeconfig.json
+D:\C#\CDA27_J2\TP_CSHARP_J1\TP_CSHARP_J1\bin\Debug\net8.0\TP_CSHARP_J1.dll
+D:\C#\CDA27_J2\TP_CSHARP_J1\TP_CSHARP_J1\bin\Debug\net8.0\TP_CSHARP_J1.pdb
+D:\C#\CDA27_J2\TP_CSHARP_J1\TP_CSHARP_J1\obj\Debug\net8.0\TP_CSHARP_J1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CDA27_J2\TP_CSHARP_J1\TP_CSHARP_J1\obj\Debug\net8.0\TP_CSHARP_J1.AssemblyInfoInputs.cache
+D:\C#\CDA27_J2\TP_CSHARP_J1\TP_CSHARP_J1\obj\Debug\net8.0\TP_CSHARP_J1.AssemblyInfo.cs
+D:\C#\CDA27_J2\TP_CSHARP_J1\TP_CSHARP_J1\obj\Debug\net8.0\TP_CSHARP_J1.csproj.CoreCompileInputs.cache
+D:\C#\CDA27_J2\TP_CSHARP_J1\TP_CSHARP_J1\obj\Debug\net8.0\TP_CSHARP_J1.dll
+D:\C#\CDA27_J2\TP_CSHARP_J1\TP_CSHARP_J1\obj\Debug\net8.0\refint\TP_CSHARP_J1.dll
+D:\C#\CDA27_J2\TP_CSHARP_J1\TP_CSHARP_J1\obj\Debug\net8.0\TP_CSHARP_J1.pdb
+D:\C#\CDA27_J2\TP_CSHARP_J1\TP_CSHARP_J1\obj\Debug\net8.0\TP_CSHARP_J1.genruntimeconfig.cache
+D:\C#\CDA27_J2\TP_CSHARP_J1\TP_CSHARP_J1\obj\Debug\net8.0\ref\TP_CSHARP_J1.dll
